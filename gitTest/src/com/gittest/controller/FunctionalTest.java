@@ -11,4 +11,8 @@ public class FunctionalTest {
 		return "goodee";
 	}
 	
+	public int getAge() {
+		return 29;
+	}
+	
 }
